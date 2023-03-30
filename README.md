@@ -1,2 +1,2 @@
 # INMERSION_DATOS
-Curso de Inmersión de Datos en Power BI
+Curso de Inmersión de Datos en Python
